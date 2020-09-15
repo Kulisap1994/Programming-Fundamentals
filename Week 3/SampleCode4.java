@@ -28,8 +28,8 @@ public class SampleCode4 {
             displayHello();
         }
 
-        // This is the second if-else-block. Java will test the condition because
-        // the first if-block is not related to the second if-else-block.
+        // This is the second if-block. Java will test the condition because
+        // the first if-else-block is not related to the second if-block.
         if (number1 <= 20) {
             System.out.println("The code inside 2nd if block.");
         }

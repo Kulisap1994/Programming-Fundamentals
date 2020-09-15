@@ -15,7 +15,7 @@ public class SampleCode2 {
      * More example of methods
      */
     public static int increment(int number) {
-        int increased_value = ++number;
+        int increased_value = number++;
         return increased_value;
     }
 
